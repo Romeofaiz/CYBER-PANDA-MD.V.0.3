@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94713106474', '𝘚𝘈𝘊𝘏𝘐𝘛𝘏', true],
-  ['94762537450', '𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈', true], 
+  ['919341378016', 'RᴏᴍᴇK-Xᴅ', true],
+  ['919341378016', 'RᴏᴍᴇK-Xᴅ', true], 
   [''] 
 ] //Number of owners
 
@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
-global.botname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋'
+global.botname = '🦋 │𝑅𝚯𝚳𝚵𝐊-𝚾𝐃-𝚩𝚯𝚻🦋'
 global.premium = 'true'
-global.packname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋' 
-global.author = '@SACHITH' 
+global.packname = '🦋 𝑅𝚯𝚳𝚵𝐊-𝚾𝐃-𝚩𝚯𝚻 🦋' 
+global.author = '@RᴏᴍᴇK-Xᴅ' 
 global.menuvid = 'https://telegra.ph/Hi-12-11-189'
 global.igfg = '\n\n' 
 global.dygp = ''
